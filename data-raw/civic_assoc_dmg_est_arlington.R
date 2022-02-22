@@ -201,7 +201,7 @@ va_arl_bg_parcels_demographics_sf <- va_arl_bg_parcels_demographics_sf[!is.na(va
 va_arl_bg_parcels_demographics_sf$geometry <- NULL
 
 civ_assoc_demographics <- va_arl_bg_parcels_demographics_sf %>%
-  select(-c(1:6)) %>%
+  select(-c(1:2)) %>%
   group_by(civ_assoc) %>%
   summarise_all(sum) %>%
   mutate(perc_20_64_2013 = pop_20_64_2013 / pop_total_2013 * 100,
@@ -296,7 +296,7 @@ civ_assoc_demographics <- civ_assoc_demographics %>%
 
 civ_assoc_demo_long <- civ_assoc_demographics %>%
   relocate(area, .after = civ_assoc) %>%
-  pivot_longer(pop_20_64_2013:density_2019,
+  pivot_longer(hh_limited_english_2016:density_2019,
                names_to = "measure",
                values_to = "value") %>%
   mutate(year = str_sub(measure, -4),
@@ -311,7 +311,7 @@ civ_assoc_full_demo_long <- civ_assoc_demo_long %>%
   rename(region_name = civ_assoc) %>%
   select(-area) %>%
   left_join(civ_assoc_names, by = "region_name") %>%
-  mutate(measure_type = rep(c(rep("count", 84), rep("ratio", 84)), 62)) %>%
+  mutate(measure_type = rep(c(rep("count", 88), rep("ratio", 84)), 62)) %>%
   select(geoid, region_type, region_name, year, measure, value, measure_type) %>%
   as.data.frame()
 
