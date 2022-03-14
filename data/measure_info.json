@@ -1,0 +1,97 @@
+{
+  "civ_assoc_demographics:perc_black": {
+    "category": "Demographics",
+    "measure_table": "va013_ca_sdad_2013_2019_civ_assoc_demographics",
+    "full_name": "civ_assoc_demographics:perc_black",
+    "measure": "perc_black",
+    "short_name": "Black population",
+    "long_name": "Black population (percent)",
+    "short_description": "The Black population population percent. Based on American Community Survey ACS 2015/2019 5-year estimates.",
+    "long_description": "The Black population percent. Based on American Community Survey ACS 2015/2019 5-year estimates Table B01001.",
+    "statement": "The Black population is {value} in {features.name}.",
+    "type": "percent",
+    "sources": [
+      {
+        "name": "American Community Survey Table B01001",
+        "date_accessed": 2021,
+        "url": "https://www.census.gov/programs-surveys/acs.html"
+      }
+    ]
+  },
+  "civ_assoc_demographics:perc_native": {
+    "category": "Demographics",
+    "measure_table": "va013_ca_sdad_2013_2019_civ_assoc_demographics",
+    "full_name": "civ_assoc_demographics:perc_native",
+    "measure": "perc_native",
+    "short_name": "Native population",
+    "long_name": "Native population (percent)",
+    "short_description": "The Native population population percent. Based on American Community Survey ACS 2015/2019 5-year estimates.",
+    "long_description": "The Native population percent. Based on American Community Survey ACS 2015/2019 5-year estimates Table B01001.",
+    "statement": "The Native population is {value} in {features.name}.",
+    "type": "percent",
+    "sources": [
+      {
+        "name": "American Community Survey Table B01001",
+        "date_accessed": 2021,
+        "url": "https://www.census.gov/programs-surveys/acs.html"
+      }
+    ]
+  },
+  "civ_assoc_demographics:perc_AAPI": {
+    "category": "Demographics",
+    "measure_table": "va013_ca_sdad_2013_2019_civ_assoc_demographics",
+    "full_name": "civ_assoc_demographics:perc_AAPI",
+    "measure": "perc_AAPI",
+    "short_name": "Asian American/Pacific Islander population",
+    "long_name": "Asian American/Pacific Islander population (percent)",
+    "short_description": "The Asian American/Pacific Islander population population percent. Based on American Community Survey ACS 2015/2019 5-year estimates.",
+    "long_description": "The Asian American/Pacific Islander population percent. Based on American Community Survey ACS 2015/2019 5-year estimates Table B01001.",
+    "statement": "The Asian American/Pacific Islander population is {value} in {features.name}.",
+    "type": "percent",
+    "sources": [
+      {
+        "name": "American Community Survey Table B01001",
+        "date_accessed": 2021,
+        "url": "https://www.census.gov/programs-surveys/acs.html"
+      }
+    ]
+  },
+  "demographics:total_pop": {
+    "category": "Demographics",
+    "measure_table": "va_ca_sdad_2019_demographics",
+    "full_name": "demographics:total_pop",
+    "measure": "total_pop",
+    "type": "count",
+    "short_name": "Total population",
+    "long_name": "Total population (count)",
+    "short_description": "The total population count. Based on American Community Survey ACS 2015/2019 5-year estimates.",
+    "long_description": "The total population count. Based on American Community Survey ACS 2015/2019 5-year estimates.",
+    "statement": "The total population in {features.name} is {value}.",
+    "sources": [
+      {
+        "name": "American Community Survey",
+        "date_accessed": "2021",
+        "url": "https://www.census.gov/programs-surveys/acs.html"
+      }
+    ]
+  },
+  "civ_assoc_demographics:perc_white": {
+    "category": "Demographics",
+    "measure_table": "va013_ca_sdad_2013_2019_civ_assoc_demographics",
+    "full_name": "civ_assoc_demographics:perc_white",
+    "measure": "perc_white",
+    "short_name": "White population",
+    "long_name": "White population (percent)",
+    "short_description": "The White population population percent. Based on American Community Survey ACS 2015/2019 5-year estimates.",
+    "long_description": "The White population percent. Based on American Community Survey ACS 2015/2019 5-year estimates Table B01001.",
+    "statement": "The White population is {value} in {features.name}.",
+    "type": "percent",
+    "sources": [
+      {
+        "name": "American Community Survey Table B01001",
+        "date_accessed": 2021,
+        "url": "https://www.census.gov/programs-surveys/acs.html"
+      }
+    ]
+  }
+}
