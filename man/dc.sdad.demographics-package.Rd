@@ -6,7 +6,7 @@
 \alias{dc.sdad.demographics-package}
 \title{dc.sdad.demographics: Social Data Commons: Population Characteristics: Arlington County Civic Association Demographics}
 \description{
-Allows user to easily get Arlington County Civic Association Demographics data from the SDAD Data Commons.  Data can be provided directly or in a file.
+Allows user to easily get Arlington County Civic Association Demographics data from the SDAD Data Commons. Data can be provided directly or in a file.
 }
 \author{
 \strong{Maintainer}: Eric Oh \email{eo9tv@virginia.edu}

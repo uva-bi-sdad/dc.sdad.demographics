@@ -1,0 +1,27 @@
+{
+  "name": "dc.sdad.demographics",
+  "data": [
+    {
+      "name": "civ_assoc_demographics",
+      "variables": ["hh_limited_english", "pop_20_64", "pop_65_plus", "pop_AAPI", "pop_black", "pop_native", "pop_other", "pop_total", "pop_two_or_more_races", "pop_under_20", "pop_veteran", "pop_white", "pop_hispanic_or_latino", "perc_20_64", "perc_65_plus", "perc_AAPI", "perc_black", "perc_native", "perc_other", "perc_two_or_more_races", "perc_under_20", "perc_veteran", "perc_white", "perc_hispanic_or_latino", "density"],
+      "file": "va013_ca_sdad_2013_2019_civ_assoc_demographics.csv.xz",
+      "size": 94000,
+      "md5": "02a59cfa0d1d12632f4aea7c59c86332"
+    }
+  ],
+  "distributions": {
+    "dataverse": {
+      "id": 55882,
+      "doi": "doi:10.18130/V3/GO64UN",
+      "server": "https://dataverse.lib.virginia.edu/",
+      "data": [
+        {
+          "file": "va013_ca_sdad_2013_2019_civ_assoc_demographics.csv.xz",
+          "id": 55910,
+          "size": 94000,
+          "md5": "02a59cfa0d1d12632f4aea7c59c86332"
+        }
+      ]
+    }
+  }
+}
