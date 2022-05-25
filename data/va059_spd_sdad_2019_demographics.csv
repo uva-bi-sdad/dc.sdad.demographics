@@ -1,0 +1,253 @@
+"geoid","region_type","region_name","year","measure","value"
+"51059_sd_braddock","supervisor district","BRADDOCK","2019","pop_black",6551.12676445967
+"51059_sd_braddock","supervisor district","BRADDOCK","2019","pop_native",572.799042107125
+"51059_sd_braddock","supervisor district","BRADDOCK","2019","pop_AAPI",23223.6903213169
+"51059_sd_braddock","supervisor district","BRADDOCK","2019","pop_white",80905.390092521
+"51059_sd_braddock","supervisor district","BRADDOCK","2019","pop_male",60415.6633080976
+"51059_sd_braddock","supervisor district","BRADDOCK","2019","pop_male0_4",3718.66352096956
+"51059_sd_braddock","supervisor district","BRADDOCK","2019","pop_male5_9",3581.24134827832
+"51059_sd_braddock","supervisor district","BRADDOCK","2019","pop_male10_14",4521.41972085928
+"51059_sd_braddock","supervisor district","BRADDOCK","2019","pop_male15_17",2815.1600215072
+"51059_sd_braddock","supervisor district","BRADDOCK","2019","pop_female",62111.7615075927
+"51059_sd_braddock","supervisor district","BRADDOCK","2019","pop_female0_4",3532.11702298528
+"51059_sd_braddock","supervisor district","BRADDOCK","2019","pop_female5_9",3863.14496976536
+"51059_sd_braddock","supervisor district","BRADDOCK","2019","pop_female10_14",3847.55698633629
+"51059_sd_braddock","supervisor district","BRADDOCK","2019","pop_female15_17",2569.68203003356
+"51059_sd_braddock","supervisor district","BRADDOCK","2019","perc_black",0.0642482451871584
+"51059_sd_braddock","supervisor district","BRADDOCK","2019","perc_native",0.230920347454048
+"51059_sd_braddock","supervisor district","BRADDOCK","2019","perc_AAPI",0.118613935021221
+"51059_sd_braddock","supervisor district","BRADDOCK","2019","perc_white",0.125183709348001
+"51059_sd_braddock","supervisor district","BRADDOCK","2019","perc_male",0.116283131698983
+"51059_sd_braddock","supervisor district","BRADDOCK","2019","perc_male0_4",0.107518361568083
+"51059_sd_braddock","supervisor district","BRADDOCK","2019","perc_male5_9",0.100506552153007
+"51059_sd_braddock","supervisor district","BRADDOCK","2019","perc_male10_14",0.127033121974728
+"51059_sd_braddock","supervisor district","BRADDOCK","2019","perc_male15_17",0.132493147581965
+"51059_sd_braddock","supervisor district","BRADDOCK","2019","perc_female",0.117559165799337
+"51059_sd_braddock","supervisor district","BRADDOCK","2019","perc_female0_4",0.106682466317207
+"51059_sd_braddock","supervisor district","BRADDOCK","2019","perc_female5_9",0.114707337973183
+"51059_sd_braddock","supervisor district","BRADDOCK","2019","perc_female10_14",0.112739328736203
+"51059_sd_braddock","supervisor district","BRADDOCK","2019","perc_female15_17",0.124411151345659
+"51059_sd_dranesville","supervisor district","DRANESVILLE","2019","pop_black",4745.43049932524
+"51059_sd_dranesville","supervisor district","DRANESVILLE","2019","pop_native",215
+"51059_sd_dranesville","supervisor district","DRANESVILLE","2019","pop_AAPI",21124.0940090611
+"51059_sd_dranesville","supervisor district","DRANESVILLE","2019","pop_white",72408.6254819742
+"51059_sd_dranesville","supervisor district","DRANESVILLE","2019","pop_male",54088.1549305957
+"51059_sd_dranesville","supervisor district","DRANESVILLE","2019","pop_male0_4",3520.9866493156
+"51059_sd_dranesville","supervisor district","DRANESVILLE","2019","pop_male5_9",4055.95276653171
+"51059_sd_dranesville","supervisor district","DRANESVILLE","2019","pop_male10_14",3839.8926884519
+"51059_sd_dranesville","supervisor district","DRANESVILLE","2019","pop_male15_17",2497.7610131097
+"51059_sd_dranesville","supervisor district","DRANESVILLE","2019","pop_female",53829.3162473491
+"51059_sd_dranesville","supervisor district","DRANESVILLE","2019","pop_female0_4",3314.55504144978
+"51059_sd_dranesville","supervisor district","DRANESVILLE","2019","pop_female5_9",3706.54540196646
+"51059_sd_dranesville","supervisor district","DRANESVILLE","2019","pop_female10_14",3856.00961538461
+"51059_sd_dranesville","supervisor district","DRANESVILLE","2019","pop_female15_17",2393.17767977636
+"51059_sd_dranesville","supervisor district","DRANESVILLE","2019","perc_black",0.0465394111885139
+"51059_sd_dranesville","supervisor district","DRANESVILLE","2019","perc_native",0.0866759038562343
+"51059_sd_dranesville","supervisor district","DRANESVILLE","2019","perc_AAPI",0.107890342986233
+"51059_sd_dranesville","supervisor district","DRANESVILLE","2019","perc_white",0.112036791569239
+"51059_sd_dranesville","supervisor district","DRANESVILLE","2019","perc_male",0.104104460644173
+"51059_sd_dranesville","supervisor district","DRANESVILLE","2019","perc_male0_4",0.101802895987428
+"51059_sd_dranesville","supervisor district","DRANESVILLE","2019","perc_male5_9",0.1138291973691
+"51059_sd_dranesville","supervisor district","DRANESVILLE","2019","perc_male10_14",0.107885041950777
+"51059_sd_dranesville","supervisor district","DRANESVILLE","2019","perc_male15_17",0.117555029201232
+"51059_sd_dranesville","supervisor district","DRANESVILLE","2019","perc_female",0.101882950346103
+"51059_sd_dranesville","supervisor district","DRANESVILLE","2019","perc_female0_4",0.100111322548179
+"51059_sd_dranesville","supervisor district","DRANESVILLE","2019","perc_female5_9",0.110057468581651
+"51059_sd_dranesville","supervisor district","DRANESVILLE","2019","perc_female10_14",0.112987003748775
+"51059_sd_dranesville","supervisor district","DRANESVILLE","2019","perc_female15_17",0.115865693512213
+"51059_sd_hunter mill","supervisor district","HUNTER MILL","2019","pop_black",9261.6842152827
+"51059_sd_hunter mill","supervisor district","HUNTER MILL","2019","pop_native",93.8128345923008
+"51059_sd_hunter mill","supervisor district","HUNTER MILL","2019","pop_AAPI",21584.731293617
+"51059_sd_hunter mill","supervisor district","HUNTER MILL","2019","pop_white",84101.7679911063
+"51059_sd_hunter mill","supervisor district","HUNTER MILL","2019","pop_male",60692.8018496294
+"51059_sd_hunter mill","supervisor district","HUNTER MILL","2019","pop_male0_4",4014.53158203289
+"51059_sd_hunter mill","supervisor district","HUNTER MILL","2019","pop_male5_9",4824.51120097059
+"51059_sd_hunter mill","supervisor district","HUNTER MILL","2019","pop_male10_14",4280.59688025311
+"51059_sd_hunter mill","supervisor district","HUNTER MILL","2019","pop_male15_17",2170.70970478084
+"51059_sd_hunter mill","supervisor district","HUNTER MILL","2019","pop_female",62610.0464414861
+"51059_sd_hunter mill","supervisor district","HUNTER MILL","2019","pop_female0_4",3861.56174414079
+"51059_sd_hunter mill","supervisor district","HUNTER MILL","2019","pop_female5_9",3912.36646176724
+"51059_sd_hunter mill","supervisor district","HUNTER MILL","2019","pop_female10_14",4092.92038562487
+"51059_sd_hunter mill","supervisor district","HUNTER MILL","2019","pop_female15_17",2520.45807703165
+"51059_sd_hunter mill","supervisor district","HUNTER MILL","2019","perc_black",0.0908312386103853
+"51059_sd_hunter mill","supervisor district","HUNTER MILL","2019","perc_native",0.0378200568911771
+"51059_sd_hunter mill","supervisor district","HUNTER MILL","2019","perc_AAPI",0.110243026826859
+"51059_sd_hunter mill","supervisor district","HUNTER MILL","2019","perc_white",0.13012941743204
+"51059_sd_hunter mill","supervisor district","HUNTER MILL","2019","perc_male",0.116816545316566
+"51059_sd_hunter mill","supervisor district","HUNTER MILL","2019","perc_male0_4",0.116072845991444
+"51059_sd_hunter mill","supervisor district","HUNTER MILL","2019","perc_male5_9",0.13539857816794
+"51059_sd_hunter mill","supervisor district","HUNTER MILL","2019","perc_male10_14",0.120267000010008
+"51059_sd_hunter mill","supervisor district","HUNTER MILL","2019","perc_male15_17",0.102162633411919
+"51059_sd_hunter mill","supervisor district","HUNTER MILL","2019","perc_female",0.118502271577326
+"51059_sd_hunter mill","supervisor district","HUNTER MILL","2019","perc_female0_4",0.11663286579133
+"51059_sd_hunter mill","supervisor district","HUNTER MILL","2019","perc_female5_9",0.116168858667538
+"51059_sd_hunter mill","supervisor district","HUNTER MILL","2019","perc_female10_14",0.119928853161822
+"51059_sd_hunter mill","supervisor district","HUNTER MILL","2019","perc_female15_17",0.122027973740346
+"51059_sd_lee","supervisor district","LEE","2019","pop_black",23432.1169258722
+"51059_sd_lee","supervisor district","LEE","2019","pop_native",243.109724490211
+"51059_sd_lee","supervisor district","LEE","2019","pop_AAPI",16767.4584328035
+"51059_sd_lee","supervisor district","LEE","2019","pop_white",73749.6860056345
+"51059_sd_lee","supervisor district","LEE","2019","pop_male",63930.4827674978
+"51059_sd_lee","supervisor district","LEE","2019","pop_male0_4",4868.47930191288
+"51059_sd_lee","supervisor district","LEE","2019","pop_male5_9",4880.53744007865
+"51059_sd_lee","supervisor district","LEE","2019","pop_male10_14",3925.67474079014
+"51059_sd_lee","supervisor district","LEE","2019","pop_male15_17",2448.94654051239
+"51059_sd_lee","supervisor district","LEE","2019","pop_female",64700.9370702989
+"51059_sd_lee","supervisor district","LEE","2019","pop_female0_4",4709.08239207244
+"51059_sd_lee","supervisor district","LEE","2019","pop_female5_9",4149.10168256021
+"51059_sd_lee","supervisor district","LEE","2019","pop_female10_14",4535.92209607168
+"51059_sd_lee","supervisor district","LEE","2019","pop_female15_17",1875.84389898616
+"51059_sd_lee","supervisor district","LEE","2019","perc_black",0.229803581526601
+"51059_sd_lee","supervisor district","LEE","2019","perc_native",0.0980081632857169
+"51059_sd_lee","supervisor district","LEE","2019","perc_AAPI",0.085639026248728
+"51059_sd_lee","supervisor district","LEE","2019","perc_white",0.1141117946144
+"51059_sd_lee","supervisor district","LEE","2019","perc_male",0.123048168971045
+"51059_sd_lee","supervisor district","LEE","2019","perc_male0_4",0.140763184116567
+"51059_sd_lee","supervisor district","LEE","2019","perc_male5_9",0.136970939138685
+"51059_sd_lee","supervisor district","LEE","2019","perc_male10_14",0.110295161468692
+"51059_sd_lee","supervisor district","LEE","2019","perc_male15_17",0.11525761695022
+"51059_sd_lee","supervisor district","LEE","2019","perc_female",0.122459708174432
+"51059_sd_lee","supervisor district","LEE","2019","perc_female0_4",0.142230996427355
+"51059_sd_lee","supervisor district","LEE","2019","perc_female5_9",0.123198174728463
+"51059_sd_lee","supervisor district","LEE","2019","perc_female10_14",0.132909483635166
+"51059_sd_lee","supervisor district","LEE","2019","perc_female15_17",0.0908189793484099
+"51059_sd_mason","supervisor district","MASON","2019","pop_black",14987.3648184592
+"51059_sd_mason","supervisor district","MASON","2019","pop_native",399.238255258143
+"51059_sd_mason","supervisor district","MASON","2019","pop_AAPI",23025.7495055253
+"51059_sd_mason","supervisor district","MASON","2019","pop_white",64396.8951810264
+"51059_sd_mason","supervisor district","MASON","2019","pop_male",61570.0929716709
+"51059_sd_mason","supervisor district","MASON","2019","pop_male0_4",4370.33936302947
+"51059_sd_mason","supervisor district","MASON","2019","pop_male5_9",3913.04456352611
+"51059_sd_mason","supervisor district","MASON","2019","pop_male10_14",2982.34530015394
+"51059_sd_mason","supervisor district","MASON","2019","pop_male15_17",1904.6389233294
+"51059_sd_mason","supervisor district","MASON","2019","pop_female",62236.824276436
+"51059_sd_mason","supervisor district","MASON","2019","pop_female0_4",4648.59516649608
+"51059_sd_mason","supervisor district","MASON","2019","pop_female5_9",3385.8535686093
+"51059_sd_mason","supervisor district","MASON","2019","pop_female10_14",3288.5308355524
+"51059_sd_mason","supervisor district","MASON","2019","pop_female15_17",2111.73614580193
+"51059_sd_mason","supervisor district","MASON","2019","perc_black",0.146984163821959
+"51059_sd_mason","supervisor district","MASON","2019","perc_native",0.160950402923188
+"51059_sd_mason","supervisor district","MASON","2019","perc_AAPI",0.117602961367271
+"51059_sd_mason","supervisor district","MASON","2019","perc_white",0.0996403601791733
+"51059_sd_mason","supervisor district","MASON","2019","perc_male",0.118505083577951
+"51059_sd_mason","supervisor district","MASON","2019","perc_male0_4",0.12636037790451
+"51059_sd_mason","supervisor district","MASON","2019","perc_male5_9",0.109818518009168
+"51059_sd_mason","supervisor district","MASON","2019","perc_male10_14",0.0837915207334944
+"51059_sd_mason","supervisor district","MASON","2019","perc_male15_17",0.089640235024342
+"51059_sd_mason","supervisor district","MASON","2019","perc_female",0.117795872574687
+"51059_sd_mason","supervisor district","MASON","2019","perc_female0_4",0.140404067601618
+"51059_sd_mason","supervisor district","MASON","2019","perc_female5_9",0.100535251113231
+"51059_sd_mason","supervisor district","MASON","2019","perc_female10_14",0.0963590039718979
+"51059_sd_mason","supervisor district","MASON","2019","perc_female15_17",0.102239702098096
+"51059_sd_mount vernon","supervisor district","MOUNT VERNON","2019","pop_black",21023.8236061768
+"51059_sd_mount vernon","supervisor district","MOUNT VERNON","2019","pop_native",266
+"51059_sd_mount vernon","supervisor district","MOUNT VERNON","2019","pop_AAPI",13110.5630838466
+"51059_sd_mount vernon","supervisor district","MOUNT VERNON","2019","pop_white",74707.6086238729
+"51059_sd_mount vernon","supervisor district","MOUNT VERNON","2019","pop_male",58902.2586843423
+"51059_sd_mount vernon","supervisor district","MOUNT VERNON","2019","pop_male0_4",4462.31142874483
+"51059_sd_mount vernon","supervisor district","MOUNT VERNON","2019","pop_male5_9",4353.54767264856
+"51059_sd_mount vernon","supervisor district","MOUNT VERNON","2019","pop_male10_14",4583.55554480173
+"51059_sd_mount vernon","supervisor district","MOUNT VERNON","2019","pop_male15_17",2289.6094982647
+"51059_sd_mount vernon","supervisor district","MOUNT VERNON","2019","pop_female",61615.9931299006
+"51059_sd_mount vernon","supervisor district","MOUNT VERNON","2019","pop_female0_4",4273.49266055724
+"51059_sd_mount vernon","supervisor district","MOUNT VERNON","2019","pop_female5_9",3951.96416249376
+"51059_sd_mount vernon","supervisor district","MOUNT VERNON","2019","pop_female10_14",4214.30509071997
+"51059_sd_mount vernon","supervisor district","MOUNT VERNON","2019","pop_female15_17",2515.3052983225
+"51059_sd_mount vernon","supervisor district","MOUNT VERNON","2019","perc_black",0.206184954495019
+"51059_sd_mount vernon","supervisor district","MOUNT VERNON","2019","perc_native",0.107236234538411
+"51059_sd_mount vernon","supervisor district","MOUNT VERNON","2019","perc_AAPI",0.0669616006846073
+"51059_sd_mount vernon","supervisor district","MOUNT VERNON","2019","perc_white",0.115593974064772
+"51059_sd_mount vernon","supervisor district","MOUNT VERNON","2019","perc_male",0.113370254151309
+"51059_sd_mount vernon","supervisor district","MOUNT VERNON","2019","perc_male0_4",0.129019582148181
+"51059_sd_mount vernon","supervisor district","MOUNT VERNON","2019","perc_male5_9",0.122181116450589
+"51059_sd_mount vernon","supervisor district","MOUNT VERNON","2019","perc_male10_14",0.128778880649921
+"51059_sd_mount vernon","supervisor district","MOUNT VERNON","2019","perc_male15_17",0.107758552565775
+"51059_sd_mount vernon","supervisor district","MOUNT VERNON","2019","perc_female",0.116620823116783
+"51059_sd_mount vernon","supervisor district","MOUNT VERNON","2019","perc_female0_4",0.129074641029703
+"51059_sd_mount vernon","supervisor district","MOUNT VERNON","2019","perc_female5_9",0.117344622682543
+"51059_sd_mount vernon","supervisor district","MOUNT VERNON","2019","perc_female10_14",0.123485611442431
+"51059_sd_mount vernon","supervisor district","MOUNT VERNON","2019","perc_female15_17",0.121778501967441
+"51059_sd_providence","supervisor district","PROVIDENCE","2019","pop_black",5672.56363830069
+"51059_sd_providence","supervisor district","PROVIDENCE","2019","pop_native",139.644489514398
+"51059_sd_providence","supervisor district","PROVIDENCE","2019","pop_AAPI",20795.8051222722
+"51059_sd_providence","supervisor district","PROVIDENCE","2019","pop_white",52196.2190285529
+"51059_sd_providence","supervisor district","PROVIDENCE","2019","pop_male",44612.9313427737
+"51059_sd_providence","supervisor district","PROVIDENCE","2019","pop_male0_4",3095.72072754048
+"51059_sd_providence","supervisor district","PROVIDENCE","2019","pop_male5_9",2524.55898499192
+"51059_sd_providence","supervisor district","PROVIDENCE","2019","pop_male10_14",2611.67517545975
+"51059_sd_providence","supervisor district","PROVIDENCE","2019","pop_male15_17",1525.65039089674
+"51059_sd_providence","supervisor district","PROVIDENCE","2019","pop_female",44705.207536102
+"51059_sd_providence","supervisor district","PROVIDENCE","2019","pop_female0_4",2775.28178063326
+"51059_sd_providence","supervisor district","PROVIDENCE","2019","pop_female5_9",2455.93475627664
+"51059_sd_providence","supervisor district","PROVIDENCE","2019","pop_female10_14",2215.75411994249
+"51059_sd_providence","supervisor district","PROVIDENCE","2019","pop_female15_17",1717.33875825423
+"51059_sd_providence","supervisor district","PROVIDENCE","2019","perc_black",0.0556319962316225
+"51059_sd_providence","supervisor district","PROVIDENCE","2019","perc_native",0.0562968016148972
+"51059_sd_providence","supervisor district","PROVIDENCE","2019","perc_AAPI",0.106213622527641
+"51059_sd_providence","supervisor district","PROVIDENCE","2019","perc_white",0.0807624350424954
+"51059_sd_providence","supervisor district","PROVIDENCE","2019","perc_male",0.0858673245769718
+"51059_sd_providence","supervisor district","PROVIDENCE","2019","perc_male0_4",0.089507108836436
+"51059_sd_providence","supervisor district","PROVIDENCE","2019","perc_male5_9",0.0708510526414024
+"51059_sd_providence","supervisor district","PROVIDENCE","2019","perc_male10_14",0.0733772291901923
+"51059_sd_providence","supervisor district","PROVIDENCE","2019","perc_male15_17",0.071803457300925
+"51059_sd_providence","supervisor district","PROVIDENCE","2019","perc_female",0.0846137152975114
+"51059_sd_providence","supervisor district","PROVIDENCE","2019","perc_female0_4",0.0838233566884854
+"51059_sd_providence","supervisor district","PROVIDENCE","2019","perc_female5_9",0.0729234186998223
+"51059_sd_providence","supervisor district","PROVIDENCE","2019","perc_female10_14",0.0649249986456104
+"51059_sd_providence","supervisor district","PROVIDENCE","2019","perc_female15_17",0.0831449532151426
+"51059_sd_springfield","supervisor district","SPRINGFIELD","2019","pop_black",8849.0810088577
+"51059_sd_springfield","supervisor district","SPRINGFIELD","2019","pop_native",192.031395318629
+"51059_sd_springfield","supervisor district","SPRINGFIELD","2019","pop_AAPI",23545.0750840541
+"51059_sd_springfield","supervisor district","SPRINGFIELD","2019","pop_white",78114.8686574146
+"51059_sd_springfield","supervisor district","SPRINGFIELD","2019","pop_male",59158.12614626
+"51059_sd_springfield","supervisor district","SPRINGFIELD","2019","pop_male0_4",3152.15537757008
+"51059_sd_springfield","supervisor district","SPRINGFIELD","2019","pop_male5_9",3742.56681081396
+"51059_sd_springfield","supervisor district","SPRINGFIELD","2019","pop_male10_14",4759.25417462469
+"51059_sd_springfield","supervisor district","SPRINGFIELD","2019","pop_male15_17",2973.97073514368
+"51059_sd_springfield","supervisor district","SPRINGFIELD","2019","pop_female",59309.1537926883
+"51059_sd_springfield","supervisor district","SPRINGFIELD","2019","pop_female0_4",2970.4160407182
+"51059_sd_springfield","supervisor district","SPRINGFIELD","2019","pop_female5_9",3765.93413055479
+"51059_sd_springfield","supervisor district","SPRINGFIELD","2019","pop_female10_14",3913.04741451751
+"51059_sd_springfield","supervisor district","SPRINGFIELD","2019","pop_female15_17",2557.45665737669
+"51059_sd_springfield","supervisor district","SPRINGFIELD","2019","perc_black",0.0867847542536462
+"51059_sd_springfield","supervisor district","SPRINGFIELD","2019","perc_native",0.0774162546884466
+"51059_sd_springfield","supervisor district","SPRINGFIELD","2019","perc_AAPI",0.120255392982325
+"51059_sd_springfield","supervisor district","SPRINGFIELD","2019","perc_white",0.120865976946461
+"51059_sd_springfield","supervisor district","SPRINGFIELD","2019","perc_male",0.113862726933077
+"51059_sd_springfield","supervisor district","SPRINGFIELD","2019","perc_male0_4",0.0911388136337738
+"51059_sd_springfield","supervisor district","SPRINGFIELD","2019","perc_male5_9",0.105034106829472
+"51059_sd_springfield","supervisor district","SPRINGFIELD","2019","perc_male10_14",0.133715282676507
+"51059_sd_springfield","supervisor district","SPRINGFIELD","2019","perc_male15_17",0.139967440751335
+"51059_sd_springfield","supervisor district","SPRINGFIELD","2019","perc_female",0.112254659582963
+"51059_sd_springfield","supervisor district","SPRINGFIELD","2019","perc_female0_4",0.089717103694424
+"51059_sd_springfield","supervisor district","SPRINGFIELD","2019","perc_female5_9",0.1118208823327
+"51059_sd_springfield","supervisor district","SPRINGFIELD","2019","perc_female10_14",0.114658298861406
+"51059_sd_springfield","supervisor district","SPRINGFIELD","2019","perc_female15_17",0.123819259948165
+"51059_sd_sully","supervisor district","SULLY","2019","pop_black",7442.65592308042
+"51059_sd_sully","supervisor district","SULLY","2019","pop_native",358.869109947644
+"51059_sd_sully","supervisor district","SULLY","2019","pop_AAPI",32615.092439482
+"51059_sd_sully","supervisor district","SULLY","2019","pop_white",65712.2187416627
+"51059_sd_sully","supervisor district","SULLY","2019","pop_male",56186.042981611
+"51059_sd_sully","supervisor district","SULLY","2019","pop_male0_4",3383.12332386412
+"51059_sd_sully","supervisor district","SULLY","2019","pop_male5_9",3755.95844093216
+"51059_sd_sully","supervisor district","SULLY","2019","pop_male10_14",4088.03324479187
+"51059_sd_sully","supervisor district","SULLY","2019","pop_male15_17",2621.14274885703
+"51059_sd_sully","supervisor district","SULLY","2019","pop_female",57225.4542231131
+"51059_sd_sully","supervisor district","SULLY","2019","pop_female0_4",3023.59112475737
+"51059_sd_sully","supervisor district","SULLY","2019","pop_female5_9",4487.42722438414
+"51059_sd_sully","supervisor district","SULLY","2019","pop_female10_14",4163.85743990823
+"51059_sd_sully","supervisor district","SULLY","2019","pop_female15_17",2393.75789899043
+"51059_sd_sully","supervisor district","SULLY","2019","perc_black",0.0729916546850955
+"51059_sd_sully","supervisor district","SULLY","2019","perc_native",0.144675834747881
+"51059_sd_sully","supervisor district","SULLY","2019","perc_AAPI",0.166580091355114
+"51059_sd_sully","supervisor district","SULLY","2019","perc_white",0.101675540803418
+"51059_sd_sully","supervisor district","SULLY","2019","perc_male",0.108142304129924
+"51059_sd_sully","supervisor district","SULLY","2019","perc_male0_4",0.0978168298135772
+"51059_sd_sully","supervisor district","SULLY","2019","perc_male5_9",0.105409939240638
+"51059_sd_sully","supervisor district","SULLY","2019","perc_male10_14",0.11485676134568
+"51059_sd_sully","supervisor district","SULLY","2019","perc_male15_17",0.123361887212287
+"51059_sd_sully","supervisor district","SULLY","2019","perc_female",0.108310833530859
+"51059_sd_sully","supervisor district","SULLY","2019","perc_female0_4",0.0913231799016977
+"51059_sd_sully","supervisor district","SULLY","2019","perc_female5_9",0.13324398522087
+"51059_sd_sully","supervisor district","SULLY","2019","perc_female10_14",0.122007417796688
+"51059_sd_sully","supervisor district","SULLY","2019","perc_female15_17",0.115893784824528

@@ -1,0 +1,393 @@
+"geoid","region_type","region_name","year","measure","value"
+"51059_pd_a","planning district","Annandale","2019","pop_black",5412.0310205006
+"51059_pd_a","planning district","Annandale","2019","pop_native",493.072164948453
+"51059_pd_a","planning district","Annandale","2019","pop_AAPI",16546.7410864961
+"51059_pd_a","planning district","Annandale","2019","pop_white",43114.2164421827
+"51059_pd_a","planning district","Annandale","2019","pop_male",38664.5855903633
+"51059_pd_a","planning district","Annandale","2019","pop_male0_4",2462.99044767736
+"51059_pd_a","planning district","Annandale","2019","pop_male5_9",2278.46139182144
+"51059_pd_a","planning district","Annandale","2019","pop_male10_14",2475.39395782511
+"51059_pd_a","planning district","Annandale","2019","pop_male15_17",1573.7025931131
+"51059_pd_a","planning district","Annandale","2019","pop_female",39286.4257808542
+"51059_pd_a","planning district","Annandale","2019","pop_female0_4",2565.84493036439
+"51059_pd_a","planning district","Annandale","2019","pop_female5_9",2516.37908489739
+"51059_pd_a","planning district","Annandale","2019","pop_female10_14",2370.14118750911
+"51059_pd_a","planning district","Annandale","2019","pop_female15_17",1279.14917529876
+"51059_pd_a","planning district","Annandale","2019","perc_black",0.0526076397441726
+"51059_pd_a","planning district","Annandale","2019","perc_native",0.198888114106051
+"51059_pd_a","planning district","Annandale","2019","perc_AAPI",0.08454997506035
+"51059_pd_a","planning district","Annandale","2019","perc_white",0.0664316255481613
+"51059_pd_a","planning district","Annandale","2019","perc_male",0.0740872640696435
+"51059_pd_a","planning district","Annandale","2019","perc_male0_4",0.0705326608605588
+"51059_pd_a","planning district","Annandale","2019","perc_male5_9",0.0633716286411987
+"51059_pd_a","planning district","Annandale","2019","perc_male10_14",0.0693271453526522
+"51059_pd_a","planning district","Annandale","2019","perc_male15_17",0.0739550755567987
+"51059_pd_a","planning district","Annandale","2019","perc_female",0.0740981851136186
+"51059_pd_a","planning district","Annandale","2019","perc_female0_4",0.0770331669027059
+"51059_pd_a","planning district","Annandale","2019","perc_female5_9",0.0744063672470241
+"51059_pd_a","planning district","Annandale","2019","perc_female10_14",0.0691742334748407
+"51059_pd_a","planning district","Annandale","2019","perc_female15_17",0.0617097645567645
+"51059_pd_b","planning district","Baileys","2019","pop_black",5489.3857386913
+"51059_pd_b","planning district","Baileys","2019","pop_native",41.014272970562
+"51059_pd_b","planning district","Baileys","2019","pop_AAPI",6951.16201691943
+"51059_pd_b","planning district","Baileys","2019","pop_white",24364.1989880515
+"51059_pd_b","planning district","Baileys","2019","pop_male",22122.6869836401
+"51059_pd_b","planning district","Baileys","2019","pop_male0_4",1644.28685796717
+"51059_pd_b","planning district","Baileys","2019","pop_male5_9",1598.26334283272
+"51059_pd_b","planning district","Baileys","2019","pop_male10_14",1048.43201787385
+"51059_pd_b","planning district","Baileys","2019","pop_male15_17",685.662351124938
+"51059_pd_b","planning district","Baileys","2019","pop_female",23130.2187649909
+"51059_pd_b","planning district","Baileys","2019","pop_female0_4",1790.76088815935
+"51059_pd_b","planning district","Baileys","2019","pop_female5_9",1199.66914474202
+"51059_pd_b","planning district","Baileys","2019","pop_female10_14",1160.63425454031
+"51059_pd_b","planning district","Baileys","2019","pop_female15_17",1002.20678005103
+"51059_pd_b","planning district","Baileys","2019","perc_black",0.0533595661709933
+"51059_pd_b","planning district","Baileys","2019","perc_native",0.0165437272318924
+"51059_pd_b","planning district","Baileys","2019","perc_AAPI",0.0355188113537736
+"51059_pd_b","planning district","Baileys","2019","perc_white",0.0375410590176363
+"51059_pd_b","planning district","Baileys","2019","perc_male",0.0423904544032023
+"51059_pd_b","planning district","Baileys","2019","perc_male0_4",0.047087445028396
+"51059_pd_b","planning district","Baileys","2019","perc_male5_9",0.0444530468659236
+"51059_pd_b","planning district","Baileys","2019","perc_male10_14",0.0293629216738396
+"51059_pd_b","planning district","Baileys","2019","perc_male15_17",0.0322222325907121
+"51059_pd_b","planning district","Baileys","2019","perc_female",0.0436259394358558
+"51059_pd_b","planning district","Baileys","2019","perc_female0_4",0.0537631798196107
+"51059_pd_b","planning district","Baileys","2019","perc_female5_9",0.0354728043538154
+"51059_pd_b","planning district","Baileys","2019","perc_female10_14",0.0338739250326455
+"51059_pd_b","planning district","Baileys","2019","perc_female15_17",0.0483492821857131
+"51059_pd_br","planning district","Bull Run","2019","pop_black",8621.20867942551
+"51059_pd_br","planning district","Bull Run","2019","pop_native",241.117021276596
+"51059_pd_br","planning district","Bull Run","2019","pop_AAPI",35178.3930963459
+"51059_pd_br","planning district","Bull Run","2019","pop_white",65923.0713180729
+"51059_pd_br","planning district","Bull Run","2019","pop_male",58762.4356543578
+"51059_pd_br","planning district","Bull Run","2019","pop_male0_4",3832.8357225942
+"51059_pd_br","planning district","Bull Run","2019","pop_male5_9",3956.03581560095
+"51059_pd_br","planning district","Bull Run","2019","pop_male10_14",4005.87082590781
+"51059_pd_br","planning district","Bull Run","2019","pop_male15_17",2532.75391034988
+"51059_pd_br","planning district","Bull Run","2019","pop_female",60205.4559025037
+"51059_pd_br","planning district","Bull Run","2019","pop_female0_4",3193.13812669762
+"51059_pd_br","planning district","Bull Run","2019","pop_female5_9",4592.9013480349
+"51059_pd_br","planning district","Bull Run","2019","pop_female10_14",4023.96546539127
+"51059_pd_br","planning district","Bull Run","2019","pop_female15_17",2330.5704913782
+"51059_pd_br","planning district","Bull Run","2019","perc_black",0.0838024465581499
+"51059_pd_br","planning district","Bull Run","2019","perc_native",0.0972581967704141
+"51059_pd_br","planning district","Bull Run","2019","perc_AAPI",0.179753357075649
+"51059_pd_br","planning district","Bull Run","2019","perc_white",0.101576165594006
+"51059_pd_br","planning district","Bull Run","2019","perc_male",0.112597821009232
+"51059_pd_br","planning district","Bull Run","2019","perc_male0_4",0.109760921895132
+"51059_pd_br","planning district","Bull Run","2019","perc_male5_9",0.11003058182045
+"51059_pd_br","planning district","Bull Run","2019","perc_male10_14",0.112190460889571
+"51059_pd_br","planning district","Bull Run","2019","perc_male15_17",0.119025035369718
+"51059_pd_br","planning district","Bull Run","2019","perc_female",0.113553598415858
+"51059_pd_br","planning district","Bull Run","2019","perc_female0_4",0.0958660982767806
+"51059_pd_br","planning district","Bull Run","2019","perc_female5_9",0.135806686076145
+"51059_pd_br","planning district","Bull Run","2019","perc_female10_14",0.117442255366318
+"51059_pd_br","planning district","Bull Run","2019","perc_female15_17",0.112433294789328
+"51059_pd_f","planning district","Fairfax","2019","pop_black",4109.79229796402
+"51059_pd_f","planning district","Fairfax","2019","pop_native",77.6419611884771
+"51059_pd_f","planning district","Fairfax","2019","pop_AAPI",14622.5480495603
+"51059_pd_f","planning district","Fairfax","2019","pop_white",39198.1622245074
+"51059_pd_f","planning district","Fairfax","2019","pop_male",30522.7576577968
+"51059_pd_f","planning district","Fairfax","2019","pop_male0_4",1743.12975146415
+"51059_pd_f","planning district","Fairfax","2019","pop_male5_9",1716.62979733593
+"51059_pd_f","planning district","Fairfax","2019","pop_male10_14",2176.19430405183
+"51059_pd_f","planning district","Fairfax","2019","pop_male15_17",1546.26866767449
+"51059_pd_f","planning district","Fairfax","2019","pop_female",32068.8140405612
+"51059_pd_f","planning district","Fairfax","2019","pop_female0_4",2122.29008474807
+"51059_pd_f","planning district","Fairfax","2019","pop_female5_9",1904.16418289407
+"51059_pd_f","planning district","Fairfax","2019","pop_female10_14",1639.62274610014
+"51059_pd_f","planning district","Fairfax","2019","pop_female15_17",1172.4878840228
+"51059_pd_f","planning district","Fairfax","2019","perc_black",0.0399492301163247
+"51059_pd_f","planning district","Fairfax","2019","perc_native",0.0313180591686528
+"51059_pd_f","planning district","Fairfax","2019","perc_AAPI",0.0747177988974562
+"51059_pd_f","planning district","Fairfax","2019","perc_white",0.0603976565030838
+"51059_pd_f","planning district","Fairfax","2019","perc_male",0.0584862755464406
+"51059_pd_f","planning district","Fairfax","2019","perc_male0_4",0.0499180091063336
+"51059_pd_f","planning district","Fairfax","2019","perc_male5_9",0.0477452136874803
+"51059_pd_f","planning district","Fairfax","2019","perc_male10_14",0.0609476072912326
+"51059_pd_f","planning district","Fairfax","2019","perc_male15_17",0.0726658370199169
+"51059_pd_f","planning district","Fairfax","2019","perc_female",0.0604850370559734
+"51059_pd_f","planning district","Fairfax","2019","perc_female0_4",0.0637165264274715
+"51059_pd_f","planning district","Fairfax","2019","perc_female5_9",0.0563038932970716
+"51059_pd_f","planning district","Fairfax","2019","perc_female10_14",0.0478535402224659
+"51059_pd_f","planning district","Fairfax","2019","perc_female15_17",0.0565641229857395
+"51059_pd_j","planning district","Jefferson","2019","pop_black",2879.68677923296
+"51059_pd_j","planning district","Jefferson","2019","pop_native",144
+"51059_pd_j","planning district","Jefferson","2019","pop_AAPI",10886.5305839701
+"51059_pd_j","planning district","Jefferson","2019","pop_white",29615.6177384691
+"51059_pd_j","planning district","Jefferson","2019","pop_male",27017.7267891543
+"51059_pd_j","planning district","Jefferson","2019","pop_male0_4",1977.98233891481
+"51059_pd_j","planning district","Jefferson","2019","pop_male5_9",1428.6265128715
+"51059_pd_j","planning district","Jefferson","2019","pop_male10_14",1367.27689778261
+"51059_pd_j","planning district","Jefferson","2019","pop_male15_17",596.840369253908
+"51059_pd_j","planning district","Jefferson","2019","pop_female",25501.1401995549
+"51059_pd_j","planning district","Jefferson","2019","pop_female0_4",1709.31168210228
+"51059_pd_j","planning district","Jefferson","2019","pop_female5_9",1300.09397050064
+"51059_pd_j","planning district","Jefferson","2019","pop_female10_14",1318.80379486826
+"51059_pd_j","planning district","Jefferson","2019","pop_female15_17",863.491110429381
+"51059_pd_j","planning district","Jefferson","2019","perc_black",0.0279919911922329
+"51059_pd_j","planning district","Jefferson","2019","perc_native",0.0580845776079561
+"51059_pd_j","planning district","Jefferson","2019","perc_AAPI",0.0556276238660433
+"51059_pd_j","planning district","Jefferson","2019","perc_white",0.0456325961673875
+"51059_pd_j","planning district","Jefferson","2019","perc_male",0.0517700999151132
+"51059_pd_j","planning district","Jefferson","2019","perc_male0_4",0.0566434829783507
+"51059_pd_j","planning district","Jefferson","2019","perc_male5_9",0.0397348794961536
+"51059_pd_j","planning district","Jefferson","2019","perc_male10_14",0.0382926539552439
+"51059_pd_j","planning district","Jefferson","2019","perc_male15_17",0.0280481043855967
+"51059_pd_j","planning district","Jefferson","2019","perc_female",0.0480977378205739
+"51059_pd_j","planning district","Jefferson","2019","perc_female0_4",0.0513178682538037
+"51059_pd_j","planning district","Jefferson","2019","perc_female5_9",0.0384422482309165
+"51059_pd_j","planning district","Jefferson","2019","perc_female10_14",0.0384902140406233
+"51059_pd_j","planning district","Jefferson","2019","perc_female15_17",0.0416572469813857
+"51059_pd_l","planning district","Lincolnia","2019","pop_black",4874.05717699034
+"51059_pd_l","planning district","Lincolnia","2019","pop_native",94.738475177305
+"51059_pd_l","planning district","Lincolnia","2019","pop_AAPI",3252.76925168256
+"51059_pd_l","planning district","Lincolnia","2019","pop_white",9063.04652832709
+"51059_pd_l","planning district","Lincolnia","2019","pop_male",9682.00549530019
+"51059_pd_l","planning district","Lincolnia","2019","pop_male0_4",868.431002398277
+"51059_pd_l","planning district","Lincolnia","2019","pop_male5_9",614.134493179525
+"51059_pd_l","planning district","Lincolnia","2019","pop_male10_14",386.167509236299
+"51059_pd_l","planning district","Lincolnia","2019","pop_male15_17",200.476263716243
+"51059_pd_l","planning district","Lincolnia","2019","pop_female",9526.81509721698
+"51059_pd_l","planning district","Lincolnia","2019","pop_female0_4",806.950124017934
+"51059_pd_l","planning district","Lincolnia","2019","pop_female5_9",468.979609929078
+"51059_pd_l","planning district","Lincolnia","2019","pop_female10_14",457.47986566837
+"51059_pd_l","planning district","Lincolnia","2019","pop_female15_17",293.408413936878
+"51059_pd_l","planning district","Lincolnia","2019","perc_black",0.0473782657727429
+"51059_pd_l","planning district","Lincolnia","2019","perc_native",0.0382141966242749
+"51059_pd_l","planning district","Lincolnia","2019","perc_AAPI",0.0166208897370903
+"51059_pd_l","planning district","Lincolnia","2019","perc_white",0.0139646029309795
+"51059_pd_l","planning district","Lincolnia","2019","perc_male",0.0185522044760471
+"51059_pd_l","planning district","Lincolnia","2019","perc_male0_4",0.0248692598181674
+"51059_pd_l","planning district","Lincolnia","2019","perc_male5_9",0.0170811334250484
+"51059_pd_l","planning district","Lincolnia","2019","perc_male10_14",0.0108152041652466
+"51059_pd_l","planning district","Lincolnia","2019","perc_male15_17",0.0094212447099996
+"51059_pd_l","planning district","Lincolnia","2019","perc_female",0.0179685398858764
+"51059_pd_l","planning district","Lincolnia","2019","perc_female0_4",0.0242266876107766
+"51059_pd_l","planning district","Lincolnia","2019","perc_female5_9",0.013867174980582
+"51059_pd_l","planning district","Lincolnia","2019","perc_female10_14",0.0133518708524873
+"51059_pd_l","planning district","Lincolnia","2019","perc_female15_17",0.0141548495614591
+"51059_pd_lp","planning district","Lower Potomac","2019","pop_black",8348.35424973855
+"51059_pd_lp","planning district","Lower Potomac","2019","pop_native",46.7371453537588
+"51059_pd_lp","planning district","Lower Potomac","2019","pop_AAPI",6022.02738718724
+"51059_pd_lp","planning district","Lower Potomac","2019","pop_white",14771.6492078345
+"51059_pd_lp","planning district","Lower Potomac","2019","pop_male",15463.136466778
+"51059_pd_lp","planning district","Lower Potomac","2019","pop_male0_4",1087.61435345764
+"51059_pd_lp","planning district","Lower Potomac","2019","pop_male5_9",1206.42050024092
+"51059_pd_lp","planning district","Lower Potomac","2019","pop_male10_14",1326.36201427927
+"51059_pd_lp","planning district","Lower Potomac","2019","pop_male15_17",501.392059529371
+"51059_pd_lp","planning district","Lower Potomac","2019","pop_female",16849.5486641336
+"51059_pd_lp","planning district","Lower Potomac","2019","pop_female0_4",1230.83556659284
+"51059_pd_lp","planning district","Lower Potomac","2019","pop_female5_9",1205.35922795107
+"51059_pd_lp","planning district","Lower Potomac","2019","pop_female10_14",1233.43225916907
+"51059_pd_lp","planning district","Lower Potomac","2019","pop_female15_17",833.032404988347
+"51059_pd_lp","planning district","Lower Potomac","2019","perc_black",0.0811501654671509
+"51059_pd_lp","planning district","Lower Potomac","2019","perc_native",0.0188521343505189
+"51059_pd_lp","planning district","Lower Potomac","2019","perc_AAPI",0.0307711508107755
+"51059_pd_lp","planning district","Lower Potomac","2019","perc_white",0.022760582236711
+"51059_pd_lp","planning district","Lower Potomac","2019","perc_male",0.0296297362888237
+"51059_pd_lp","planning district","Lower Potomac","2019","perc_male0_4",0.0311460137459505
+"51059_pd_lp","planning district","Lower Potomac","2019","perc_male5_9",0.0335545874074606
+"51059_pd_lp","planning district","Lower Potomac","2019","perc_male10_14",0.0371467708659051
+"51059_pd_lp","planning district","Lower Potomac","2019","perc_male15_17",0.0235625764412836
+"51059_pd_lp","planning district","Lower Potomac","2019","perc_female",0.0317799583744355
+"51059_pd_lp","planning district","Lower Potomac","2019","perc_female0_4",0.0369528027625845
+"51059_pd_lp","planning district","Lower Potomac","2019","perc_female5_9",0.035641053415914
+"51059_pd_lp","planning district","Lower Potomac","2019","perc_female10_14",0.0359985858736247
+"51059_pd_lp","planning district","Lower Potomac","2019","perc_female15_17",0.0401878331102232
+"51059_pd_m","planning district","Mclean","2019","pop_black",1658.96623794212
+"51059_pd_m","planning district","Mclean","2019","pop_native",51.4823151125402
+"51059_pd_m","planning district","Mclean","2019","pop_AAPI",12780.7540192926
+"51059_pd_m","planning district","Mclean","2019","pop_white",41089.0160771704
+"51059_pd_m","planning district","Mclean","2019","pop_male",28889.1414790997
+"51059_pd_m","planning district","Mclean","2019","pop_male0_4",1716.44694533762
+"51059_pd_m","planning district","Mclean","2019","pop_male5_9",2266.98874598071
+"51059_pd_m","planning district","Mclean","2019","pop_male10_14",2243.11093247588
+"51059_pd_m","planning district","Mclean","2019","pop_male15_17",1346
+"51059_pd_m","planning district","Mclean","2019","pop_female",30019.0305466238
+"51059_pd_m","planning district","Mclean","2019","pop_female0_4",1724.65112540193
+"51059_pd_m","planning district","Mclean","2019","pop_female5_9",2274
+"51059_pd_m","planning district","Mclean","2019","pop_female10_14",2215.06109324759
+"51059_pd_m","planning district","Mclean","2019","pop_female15_17",1282.07395498392
+"51059_pd_m","planning district","Mclean","2019","perc_black",0.0161259789278391
+"51059_pd_m","planning district","Mclean","2019","perc_native",0.0207661703304972
+"51059_pd_m","planning district","Mclean","2019","perc_AAPI",0.0653066623774969
+"51059_pd_m","planning district","Mclean","2019","perc_white",0.0633111385392205
+"51059_pd_m","planning district","Mclean","2019","perc_male",0.0553560169035097
+"51059_pd_m","planning district","Mclean","2019","perc_male0_4",0.0491538935503413
+"51059_pd_m","planning district","Mclean","2019","perc_male5_9",0.0630525360051063
+"51059_pd_m","planning district","Mclean","2019","perc_male10_14",0.0628217085067579
+"51059_pd_m","planning district","Mclean","2019","perc_male15_17",0.0632543481437201
+"51059_pd_m","planning district","Mclean","2019","perc_female",0.0566189374106697
+"51059_pd_m","planning district","Mclean","2019","perc_female0_4",0.051778397213256
+"51059_pd_m","planning district","Mclean","2019","perc_female5_9",0.0672395030364163
+"51059_pd_m","planning district","Mclean","2019","perc_female10_14",0.0646481121179013
+"51059_pd_m","planning district","Mclean","2019","perc_female15_17",0.0618508641792614
+"51059_pd_mv","planning district","Mount Vernon","2019","pop_black",19985.0472727273
+"51059_pd_mv","planning district","Mount Vernon","2019","pop_native",154
+"51059_pd_mv","planning district","Mount Vernon","2019","pop_AAPI",8018.97090909091
+"51059_pd_mv","planning district","Mount Vernon","2019","pop_white",66792.9090909091
+"51059_pd_mv","planning district","Mount Vernon","2019","pop_male",53436.8690909091
+"51059_pd_mv","planning district","Mount Vernon","2019","pop_male0_4",4061.16727272727
+"51059_pd_mv","planning district","Mount Vernon","2019","pop_male5_9",4486.62181818182
+"51059_pd_mv","planning district","Mount Vernon","2019","pop_male10_14",3767.64363636364
+"51059_pd_mv","planning district","Mount Vernon","2019","pop_male15_17",2233.12
+"51059_pd_mv","planning district","Mount Vernon","2019","pop_female",54009.3054545454
+"51059_pd_mv","planning district","Mount Vernon","2019","pop_female0_4",4112.90545454545
+"51059_pd_mv","planning district","Mount Vernon","2019","pop_female5_9",3538.54545454545
+"51059_pd_mv","planning district","Mount Vernon","2019","pop_female10_14",3833.87272727273
+"51059_pd_mv","planning district","Mount Vernon","2019","pop_female15_17",1915.31636363636
+"51059_pd_mv","planning district","Mount Vernon","2019","perc_black",0.194264623246126
+"51059_pd_mv","planning district","Mount Vernon","2019","perc_native",0.0621182288307308
+"51059_pd_mv","planning district","Mount Vernon","2019","perc_AAPI",0.0409750649284427
+"51059_pd_mv","planning district","Mount Vernon","2019","perc_white",0.102916436668865
+"51059_pd_mv","planning district","Mount Vernon","2019","perc_male",0.102393220331835
+"51059_pd_mv","planning district","Mount Vernon","2019","perc_male0_4",0.116299652812456
+"51059_pd_mv","planning district","Mount Vernon","2019","perc_male5_9",0.124787952403277
+"51059_pd_mv","planning district","Mount Vernon","2019","perc_male10_14",0.105518548750385
+"51059_pd_mv","planning district","Mount Vernon","2019","perc_male15_17",0.104943944967834
+"51059_pd_mv","planning district","Mount Vernon","2019","perc_female",0.101867029995363
+"51059_pd_mv","planning district","Mount Vernon","2019","perc_female0_4",0.123479844235971
+"51059_pd_mv","planning district","Mount Vernon","2019","perc_female5_9",0.10463062349842
+"51059_pd_mv","planning district","Mount Vernon","2019","perc_female10_14",0.111894265433151
+"51059_pd_mv","planning district","Mount Vernon","2019","perc_female15_17",0.0924002642804447
+"51059_pd_p","planning district","Pohick","2019","pop_black",10551.974251426
+"51059_pd_p","planning district","Pohick","2019","pop_native",409.849698688408
+"51059_pd_p","planning district","Pohick","2019","pop_AAPI",21643.4415403779
+"51059_pd_p","planning district","Pohick","2019","pop_white",98743.8892264716
+"51059_pd_p","planning district","Pohick","2019","pop_male",70375.7135682761
+"51059_pd_p","planning district","Pohick","2019","pop_male0_4",4021.56709294914
+"51059_pd_p","planning district","Pohick","2019","pop_male5_9",4373.08608004257
+"51059_pd_p","planning district","Pohick","2019","pop_male10_14",5829.51687522885
+"51059_pd_p","planning district","Pohick","2019","pop_male15_17",3365.68657299569
+"51059_pd_p","planning district","Pohick","2019","pop_female",70622.3870647144
+"51059_pd_p","planning district","Pohick","2019","pop_female0_4",3654.94643684578
+"51059_pd_p","planning district","Pohick","2019","pop_female5_9",4296.66647105055
+"51059_pd_p","planning district","Pohick","2019","pop_female10_14",4696.15847979135
+"51059_pd_p","planning district","Pohick","2019","pop_female15_17",3223.42640190549
+"51059_pd_p","planning district","Pohick","2019","perc_black",0.102570450521449
+"51059_pd_p","planning district","Pohick","2019","perc_native",0.165319073826835
+"51059_pd_p","planning district","Pohick","2019","perc_AAPI",0.110592921765878
+"51059_pd_p","planning district","Pohick","2019","perc_white",0.152147426430881
+"51059_pd_p","planning district","Pohick","2019","perc_male",0.134850639043755
+"51059_pd_p","planning district","Pohick","2019","perc_male0_4",0.115165622409317
+"51059_pd_p","planning district","Pohick","2019","perc_male5_9",0.121630143953816
+"51059_pd_p","planning district","Pohick","2019","perc_male10_14",0.163264421999241
+"51059_pd_p","planning district","Pohick","2019","perc_male15_17",0.158168135387009
+"51059_pd_p","planning district","Pohick","2019","perc_female",0.133200987513531
+"51059_pd_p","planning district","Pohick","2019","perc_female0_4",0.109730754013263
+"51059_pd_p","planning district","Pohick","2019","perc_female5_9",0.12704736949282
+"51059_pd_p","planning district","Pohick","2019","perc_female10_14",0.13706068010967
+"51059_pd_p","planning district","Pohick","2019","perc_female15_17",0.155507182562336
+"51059_pd_rh","planning district","Rose Hill","2019","pop_black",9475.79656825903
+"51059_pd_rh","planning district","Rose Hill","2019","pop_native",122
+"51059_pd_rh","planning district","Rose Hill","2019","pop_AAPI",7654.60262400936
+"51059_pd_rh","planning district","Rose Hill","2019","pop_white",36786.5751301499
+"51059_pd_rh","planning district","Rose Hill","2019","pop_male",28588.2780533103
+"51059_pd_rh","planning district","Rose Hill","2019","pop_male0_4",2193.89927455772
+"51059_pd_rh","planning district","Rose Hill","2019","pop_male5_9",1928.47790067338
+"51059_pd_rh","planning district","Rose Hill","2019","pop_male10_14",1579.91213482031
+"51059_pd_rh","planning district","Rose Hill","2019","pop_male15_17",1029.76407204645
+"51059_pd_rh","planning district","Rose Hill","2019","pop_female",30604.0605417772
+"51059_pd_rh","planning district","Rose Hill","2019","pop_female0_4",2094.77854678736
+"51059_pd_rh","planning district","Rose Hill","2019","pop_female5_9",1835.03954387047
+"51059_pd_rh","planning district","Rose Hill","2019","pop_female10_14",1724.0526874399
+"51059_pd_rh","planning district","Rose Hill","2019","pop_female15_17",728.460081604725
+"51059_pd_rh","planning district","Rose Hill","2019","perc_black",0.0921094669013792
+"51059_pd_rh","planning district","Rose Hill","2019","perc_native",0.0492105449178516
+"51059_pd_rh","planning district","Rose Hill","2019","perc_AAPI",0.0391132282528469
+"51059_pd_rh","planning district","Rose Hill","2019","perc_white",0.0566818137011167
+"51059_pd_rh","planning district","Rose Hill","2019","perc_male",0.0547795165289418
+"51059_pd_rh","planning district","Rose Hill","2019","perc_male0_4",0.0628266965633299
+"51059_pd_rh","planning district","Rose Hill","2019","perc_male5_9",0.0536374176902487
+"51059_pd_rh","planning district","Rose Hill","2019","perc_male10_14",0.0442478248235449
+"51059_pd_rh","planning district","Rose Hill","2019","perc_male15_17",0.0483930572950379
+"51059_pd_rh","planning district","Rose Hill","2019","perc_female",0.057722363340015
+"51059_pd_rh","planning district","Rose Hill","2019","perc_female0_4",0.0628905603410576
+"51059_pd_rh","planning district","Rose Hill","2019","perc_female5_9",0.0542599590949966
+"51059_pd_rh","planning district","Rose Hill","2019","perc_female10_14",0.0503176872974517
+"51059_pd_rh","planning district","Rose Hill","2019","perc_female15_17",0.035142969243075
+"51059_pd_s","planning district","Springfield","2019","pop_black",6525.59847870483
+"51059_pd_s","planning district","Springfield","2019","pop_native",171.350364963504
+"51059_pd_s","planning district","Springfield","2019","pop_AAPI",8008.6878151566
+"51059_pd_s","planning district","Springfield","2019","pop_white",32648.1054554431
+"51059_pd_s","planning district","Springfield","2019","pop_male",26795.2214274264
+"51059_pd_s","planning district","Springfield","2019","pop_male0_4",2068.49979099161
+"51059_pd_s","planning district","Springfield","2019","pop_male5_9",1953.15742724652
+"51059_pd_s","planning district","Springfield","2019","pop_male10_14",1538.34436269055
+"51059_pd_s","planning district","Springfield","2019","pop_male15_17",984.812371755793
+"51059_pd_s","planning district","Springfield","2019","pop_female",25845.4142488976
+"51059_pd_s","planning district","Springfield","2019","pop_female0_4",1709.28215643769
+"51059_pd_s","planning district","Springfield","2019","pop_female5_9",1482.30028206005
+"51059_pd_s","planning district","Springfield","2019","pop_female10_14",1977.75825450421
+"51059_pd_s","planning district","Springfield","2019","pop_female15_17",851.145470975669
+"51059_pd_s","planning district","Springfield","2019","perc_black",0.0634320706186695
+"51059_pd_s","planning district","Springfield","2019","perc_native",0.0691167609157933
+"51059_pd_s","planning district","Springfield","2019","perc_AAPI",0.0409225207246539
+"51059_pd_s","planning district","Springfield","2019","perc_white",0.0503051405185895
+"51059_pd_s","planning district","Springfield","2019","perc_male",0.0513437455849287
+"51059_pd_s","planning district","Springfield","2019","perc_male0_4",0.0592356313788107
+"51059_pd_s","planning district","Springfield","2019","perc_male5_9",0.0543238378326516
+"51059_pd_s","planning district","Springfield","2019","perc_male10_14",0.0430836566024355
+"51059_pd_s","planning district","Springfield","2019","perc_male15_17",0.0462805829266595
+"51059_pd_s","planning district","Springfield","2019","perc_female",0.0487470736084694
+"51059_pd_s","planning district","Springfield","2019","perc_female0_4",0.0513169818185319
+"51059_pd_s","planning district","Springfield","2019","perc_female5_9",0.0438298743695943
+"51059_pd_s","planning district","Springfield","2019","perc_female10_14",0.057722262274868
+"51059_pd_s","planning district","Springfield","2019","perc_female15_17",0.0410616585084358
+"51059_pd_up","planning district","Upper Potomac","2019","pop_black",12889.9480232961
+"51059_pd_up","planning district","Upper Potomac","2019","pop_native",397.874345549738
+"51059_pd_up","planning district","Upper Potomac","2019","pop_AAPI",33092.5043072411
+"51059_pd_up","planning district","Upper Potomac","2019","pop_white",109688.92725669
+"51059_pd_up","planning district","Upper Potomac","2019","pop_male",83927.2772122543
+"51059_pd_up","planning district","Upper Potomac","2019","pop_male0_4",5292.50379786473
+"51059_pd_up","planning district","Upper Potomac","2019","pop_male5_9",6105.22271482172
+"51059_pd_up","planning district","Upper Potomac","2019","pop_male10_14",5788.17649144116
+"51059_pd_up","planning district","Upper Potomac","2019","pop_male15_17",3447.9497614892
+"51059_pd_up","planning district","Upper Potomac","2019","pop_female",85089.907238243
+"51059_pd_up","planning district","Upper Potomac","2019","pop_female0_4",5091.46991723794
+"51059_pd_up","planning district","Upper Potomac","2019","pop_female5_9",5449.97136028054
+"51059_pd_up","planning district","Upper Potomac","2019","pop_female10_14",5527.85791302007
+"51059_pd_up","planning district","Upper Potomac","2019","pop_female15_17",3630.59109170902
+"51059_pd_up","planning district","Upper Potomac","2019","perc_black",0.125296721205405
+"51059_pd_up","planning district","Upper Potomac","2019","perc_native",0.16048863404374
+"51059_pd_up","planning district","Upper Potomac","2019","perc_AAPI",0.16909495345553
+"51059_pd_up","planning district","Upper Potomac","2019","perc_white",0.169011856032865
+"51059_pd_up","planning district","Upper Potomac","2019","perc_male",0.16081750921495
+"51059_pd_up","planning district","Upper Potomac","2019","perc_male0_4",0.151561438587809
+"51059_pd_up","planning district","Upper Potomac","2019","perc_male5_9",0.169806654632932
+"51059_pd_up","planning district","Upper Potomac","2019","perc_male10_14",0.162106622131982
+"51059_pd_up","planning district","Upper Potomac","2019","perc_male15_17",0.162034037589372
+"51059_pd_up","planning district","Upper Potomac","2019","perc_female",0.160488198468608
+"51059_pd_up","planning district","Upper Potomac","2019","perc_female0_4",0.152858829180685
+"51059_pd_up","planning district","Upper Potomac","2019","perc_female5_9",0.161149237391366
+"51059_pd_up","planning district","Upper Potomac","2019","perc_female10_14",0.161334411598012
+"51059_pd_up","planning district","Upper Potomac","2019","perc_female15_17",0.175149955765654
+"51059_pd_v","planning district","Vienna","2019","pop_black",2053.5349532867
+"51059_pd_v","planning district","Vienna","2019","pop_native",34.2656826568266
+"51059_pd_v","planning district","Vienna","2019","pop_AAPI",11044.5452225141
+"51059_pd_v","planning district","Vienna","2019","pop_white",37201.9920910926
+"51059_pd_v","planning district","Vienna","2019","pop_male",27631.1416523921
+"51059_pd_v","planning district","Vienna","2019","pop_male0_4",1948.50258640987
+"51059_pd_v","planning district","Vienna","2019","pop_male5_9",2041.83962156407
+"51059_pd_v","planning district","Vienna","2019","pop_male10_14",2173.58225779666
+"51059_pd_v","planning district","Vienna","2019","pop_male15_17",1234.74057394664
+"51059_pd_v","planning district","Vienna","2019","pop_female",27435.6468067117
+"51059_pd_v","planning district","Vienna","2019","pop_female0_4",1501.14920352339
+"51059_pd_v","planning district","Vienna","2019","pop_female5_9",1755.33553954146
+"51059_pd_v","planning district","Vienna","2019","pop_female10_14",2084.51237926669
+"51059_pd_v","planning district","Vienna","2019","pop_female15_17",1323.11316194474
+"51059_pd_v","planning district","Vienna","2019","perc_black",0.0199613835573655
+"51059_pd_v","planning district","Vienna","2019","perc_native",0.0138215812747919
+"51059_pd_v","planning district","Vienna","2019","perc_AAPI",0.0564350416940149
+"51059_pd_v","planning district","Vienna","2019","perc_white",0.0573219001104966
+"51059_pd_v","planning district","Vienna","2019","perc_male",0.0529454966835781
+"51059_pd_v","planning district","Vienna","2019","perc_male0_4",0.0557992712650472
+"51059_pd_v","planning district","Vienna","2019","perc_male5_9",0.0567903861382542
+"51059_pd_v","planning district","Vienna","2019","perc_male10_14",0.0608744529919634
+"51059_pd_v","planning district","Vienna","2019","perc_male15_17",0.058025787616343
+"51059_pd_v","planning district","Vienna","2019","perc_female",0.051746413561152
+"51059_pd_v","planning district","Vienna","2019","perc_female0_4",0.0450683031435026
+"51059_pd_v","planning district","Vienna","2019","perc_female5_9",0.0519032055149198
+"51059_pd_v","planning district","Vienna","2019","perc_female10_14",0.0608379563059407
+"51059_pd_v","planning district","Vienna","2019","perc_female15_17",0.0638307112901795
